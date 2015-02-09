@@ -1,1 +1,51 @@
-body { color:#666; }
+html, body { margin:0; padding:0 }
+strong {color:#171717}
+body {
+    color: #735D96;
+    font-family: Verdana;
+    background-color: #FFFFFF;
+    background-image: linear-gradient(
+        45deg,
+	rgba(255, 255, 255, 0.2) 25%, 
+	rgba(0, 0, 0, 0) 25%, 
+	rgba(0, 0, 0, 0) 50%, 
+	rgba(255, 255, 255, 0.2) 50%, 
+	rgba(255, 255, 255, 0.2) 75%, 
+	rgba(0, 0, 0, 0) 75%, 
+	rgba(0, 0, 0, 0)
+    );
+    background-size: 50px 50px;
+}
+div.container { margin: 0 auto; min-height: 700px; padding: 0; }
+div.header {
+    margin: 0;
+    background: url("/images/PianClaveSol.jpg") 40%;
+    background-repeat: no-repeat;
+    /*background-position: bottom;*/
+    background-position: center;
+    padding: 0;
+    text-shadow: 1px 1px 0 #afff;
+    float: left;
+    width: 100%;
+    height: 150px;
+    border-bottom-left-radius: 7px 7px;
+    border-bottom-right-radius: 7px 7px;
+}
+div#me {
+    /*background: -moz-linear-gradient(center top , #EEEEEE 0%, #e0e0e0 50%, #EEEEEE 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);*/
+    text-shadow: 1px 1px 0 #000000;
+}
+div#menu { width: 100%; margin-top:7px; text-align: center; }
+div#menu ul { width: 100%; line-height: 30px; list-style: none; }
+div#menu li a { color: #EEE; text-decoration: none; padding: 17px 7px; }
+div#menu li {
+    /*background: #735D96;*/
+    background: /*#7774B9*/ #000000;
+    display: inline;
+    border-bottom-left-radius: 7px 7px;
+    border-bottom-right-radius: 7px 7px;
+    width: 170px;
+    padding: 1em;
+}
+div#menu li a:hover, a.over { /*background: #7774B9;*/ color: #735D96; border-top: 1px solid #7774B9; }
+div#companies { box-shadow: #777777 0.1em 0.1em 0.1em; border-radius: 3px; min-height: 270px; margin-top: 30px; }
