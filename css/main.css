@@ -1,7 +1,9 @@
 html, body { margin:0; padding:0 }
 body { color: #171717; font-family: Verdana; }
-strong { color: #735D96 }
-
+strong { color: #171717; }
+label, input { width: 170px; }
+textarea { width: 270px; }
+button { margin-top: 10px; }
 div.container {
     margin: 0 auto;
     padding: 0;
@@ -27,7 +29,7 @@ div#me {
     text-shadow: 1px 1px 0 #000000;
 }
 div#menu { width: 100%; margin-top:7px; text-align: center; }
-div#menu ul { width: 100%; line-height: 30px; list-style: none; }
+div#menu ul { width: 100%; line-height: 30px; list-style: none; margin: 0; padding: 0; }
 div#menu li a { color: #EEE; text-decoration: none; padding: 17px 7px; cursor: pointer; _cursor: hand; }
 div#menu li {
     background: #000000;
@@ -37,8 +39,15 @@ div#menu li {
     width: 170px;
     padding: 1em;
 }
-div#menu li a:hover, a.over { color: #7774B9; border-top: 1px solid #735D96 }
-div#companies { box-shadow: #171717 0.1em 0.1em 0.1em; border-radius: 3px; min-height: 270px; margin-top: 30px; margin-left: 15px; padding: 10px 15px 20px }
+div#menu li a:hover, a.over { color: #FFF; border-top: 1px solid #171717; }
+.visible-xs-block {
+    width: 99% !important;
+    margin-bottom: 2px;
+    margin-left: 2px;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 7px;
+} /* Melhorar! */
+div#companies { box-shadow: #171717 0.1em 0.1em 0.1em; border-radius: 3px; min-height: 300px; margin-top: 30px; margin-left: 15px; padding: 10px 15px 20px }
 div#content { box-shadow: #171717 0.1em 0.1em 0.1em;  border-radius: 3px; min-height: 440px; margin-top: 30px; margin-left: 15px; padding: 10px 15px 20px }
 div.title { margin-bottom: 20px; text-shadow: 0 1px 0 #171717; }
 div.project { text-align: center }
@@ -67,4 +76,9 @@ div.footer:after {
     position: absolute;
     z-index: -1;
     content: "";
+}
+div.contact {
+    text-align: center;
+    margin: 15px 20px;
+    padding-top: 15px;
 }
