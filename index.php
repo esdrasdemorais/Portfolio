@@ -254,8 +254,10 @@ function changeBtnCollapse(ariaExpandedAttr) {
 	    <img src="/images/Proguaru.jpg" class="img-thumbnail" width="90" height="90" style="float:left" />
 	    <img src="/images/CRFSP.png" class="img-thumbnail" width="90" height="90" style="float:left" />
 	    <img src="/images/Mobly.jpg" class="img-thumbnail" width="90" height="90" style="float:left" />
-	    <img src="/images/OIWifi.png" class="img-thumbnail" width="90" height="90" style="float:left;margin-left:90px" />
-		</div>
+	    <img src="/images/OIWifi.png" class="img-thumbnail" width="90" height="90" style="float:left;" />
+	    <img src="/images/Uello.png" class="img-thumbnail" width="90" height="90" style="float:left;" />
+	    <img src="/images/ScanBrazilConsulting.png" class="img-thumbnail" width="90" height="90" style="float:left;" />
+	</div>
     </div>
 </div>
 </body>
