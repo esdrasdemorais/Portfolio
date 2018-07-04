@@ -136,9 +136,10 @@ function changeBtnCollapse(ariaExpandedAttr) {
 	    Formado em Sistemas de Informa&ccedil;&atilde;o na Faculdade ENIAC, Guarulhos/SP, possuo Experiência como Analista Desenvolvedor PHP, Visual Basic e C#.<br />Conhecimentos em Zend e Symfony Frameworks, SGBDs: MSSQL Server, MySQL e PostgreSQL; CSS, XHTML, XML, XSL, JSOO, JQuery, AJAX e JSON, Design-Patterns, J2SDK, J2EE, Adobe Flex, Eclipse e Netbeans.
 	    <br /><br />
 	    Com enorme interesse e sempre em busca de novos desafios, anseio por ingressar em novos projetos, afim de agu&ccedil;ar minhas competências e habilidades de forma qualitativa e quantitativa trazendo benefícios para mim e o cliente. Entre elas posso destacar o empenho e total comprometimento com o projeto.
-	    <br /><br />
-	  </p>
-	  <br />
+	    </p>
+	    <br />
+	    <a href="./curriculo.pdf" target="_blank" class="thumbnail" style="float:left"><img src="/images/CV.png" alt="Curr&iacute;culo" title="Curr&iacute;culo" width="377"></a>
+	    <a href="./monografia.pdf" target="_blank" class="thumbnail"><img src="/images/TCC.png" alt="Trabalho de Conclus&atilde;o de Curso" title="Trabalho de Conclus&atilde;o de Curso" style="background-color:#000;" width="300"></a>
       </div>
       <div id="Projetos" class="collapse in">
 		<div class="row">
