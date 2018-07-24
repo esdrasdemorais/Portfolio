@@ -6,7 +6,10 @@
 <meta name="mobileoptimized" content="300" />
 <meta name="HandheldFriendly" content="true" />
 <meta http-equiv="cleartype" content="on" />
-<!-- Latest compiled and minified CSS aaaaaaaaaaaaaaaaaaaaaaa-->
+<!--[if IE]><link rel="shortcut icon" href="/images/PianoG.ico"><![endif]-->
+<link rel="icon" href="/images/PianoG.ico">
+<link rel="apple-touch-icon-precomposed" href="/images/PianoG.ico">
+<!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="./bootstrap-3.3.2-dist/css/bootstrap.min.css" />
 <!-- jQuery library -->
 <script src="/bootstrap-3.3.2-dist/js/jquery-1.11.2.min.js"></script>

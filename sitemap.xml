@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>http://esdrasmorais.com</loc>
+		<lastmod>2018-07-24T17:17:17-07:00</lastmod>
+		<xhtml:link rel="alternate" hreflang="en" href="http://esdrasmorais.com/en"/>
+		<xhtml:link rel="alternate" hreflang="es" href="http://esdrasmorais.com/es"/>
+    </url>
+    <url>
+        <loc>http://esdrasmorais.com#Home</loc>
+		<lastmod>2018-07-24T17:17:17-07:00</lastmod>
+        <xhtml:link rel="alternate" hreflang="en" href="http://esdrasmorais.com/en/#Home"/>
+        <xhtml:link rel="alternate" hreflang="es" href="http://esdrasmorais.com/es/#Home"/>
+    </url>
+	<url>
+        <loc>https://github.com/esdrasdemorais</loc>
+		<lastmod>2018-07-24T17:17:17-07:00</lastmod>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/esdrasdemorais/en"/>
+		<xhtml:link rel="alternate" hreflang="es" href="https://github.com/esdrasdemorais/es"/>
+    </url>
+	<url>
+        <loc>https://br.linkedin.com/in/esdrasdemorais/</loc>
+		<lastmod>2018-07-24T17:17:17-07:00</lastmod>
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.linkedin.com/in/esdrasdemorais/"/>
+		<xhtml:link rel="alternate" hreflang="es" href="https://es.linkedin.com/in/esdrasdemorais/"/>
+    </url>
+    <url>
+        <loc>http://esdrasmorais.com/#Empresas</loc>
+		<lastmod>2018-07-24T17:17:17-07:00</lastmod>
+        <xhtml:link rel="alternate" hreflang="en" href="http://esdrasmorais.com/en/#Empresas"/>
+        <xhtml:link rel="alternate" hreflang="es" href="http://esdrasmorais.com/es/#Empresas"/>
+    </url>
+    <url>
+        <loc>http://esdrasmorais.com/#Projetos</loc>
+		<lastmod>2018-07-24T17:17:17-07:00</lastmod>
+        <xhtml:link rel="alternate" hreflang="en" href="http://esdrasmorais.com/en/#Projetos"/>
+        <xhtml:link rel="alternate" hreflang="es" href="http://esdrasmorais.com/es/#Projetos"/>
+    </url>
+    <url>
+        <loc>http://esdrasmorais.com/#Contato</loc>
+		<lastmod>2018-07-24T17:17:17-07:00</lastmod>
+        <xhtml:link rel="alternate" hreflang="en" href="http://esdrasmorais.com/en/#Contato"/>
+        <xhtml:link rel="alternate" hreflang="es" href="http://esdrasmorais.com/es/#Contato"/>
+    </url>
+</urlset>

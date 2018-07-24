@@ -1,0 +1,27 @@
+User-agent: *
+Allow: *
+Disallow: /contact.php	
+Disallow: /xml?
+Allow: /books?*q=related:*
+Disallow: /ebooks/
+Disallow: /ebooks?*q=*
+Disallow: /patents?
+Allow: /citations?user=
+Disallow: /ie?
+Disallow: /blogsearch/
+Disallow: /blogsearch_feeds
+Disallow: /orkut/albums
+Disallow: /cbk
+Allow: /cbk?output=tile&cb_client=maps_sv
+Allow: /alerts/$
+Disallow: /finance?*q=*
+Allow: /#
+
+# Certain social media sites are whitelisted to allow crawlers to access page markup when links to google.com/imgres* are shared. To learn more, please contact images-robots-whitelist@google.com.
+User-agent: Twitterbot
+Allow: /images
+
+User-agent: facebookexternalhit
+Allow: /images
+
+Sitemap: http://esdrasmorais.com/sitemap.xml
